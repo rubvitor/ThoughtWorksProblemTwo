@@ -1,0 +1,8 @@
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Model\bin\Debug\ClassLibrary1.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Model\bin\Debug\ClassLibrary1.pdb
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Model\obj\Debug\ClassLibrary1.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Model\obj\Debug\ClassLibrary1.pdb

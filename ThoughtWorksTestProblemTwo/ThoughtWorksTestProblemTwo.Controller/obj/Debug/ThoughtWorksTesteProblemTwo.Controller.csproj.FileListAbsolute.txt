@@ -1,0 +1,14 @@
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary2\obj\Debug\ThoughtWorksTesteProblemTwo.Controller.csprojResolveAssemblyReference.cache
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Controller\bin\Debug\ClassLibrary2.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Controller\bin\Debug\ClassLibrary2.pdb
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Controller\bin\Debug\ClassLibrary1.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Controller\bin\Debug\ClassLibrary1.pdb
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Controller\obj\Debug\ThoughtWorksTesteProblemTwo.Controller.csprojResolveAssemblyReference.cache
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Controller\obj\Debug\ClassLibrary2.dll
+C:\Rubens\Projetos\ThoughtWorks\ThoughtWorksTestProblemTwo\ThoughtWorksTestProblemTwo.Controller\obj\Debug\ClassLibrary2.pdb
